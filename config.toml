@@ -1,0 +1,20 @@
+baseURL = 'https://blog.jacksonrakena.com'
+languageCode = 'en-us'
+title = 'jacksons notes'
+theme = 'terminal'
+
+[params]
+themeColor="green"
+[languages]
+  [languages.en]
+    title="jackson's notes"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+
+    [languages.en.params.logo]
+      logoText = "jackson@system:~/notes"
