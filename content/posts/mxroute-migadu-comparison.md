@@ -3,6 +3,7 @@ title = "the poor man's showdown: MXroute vs Migadu"
 date = "2021-12-17T23:50:02+13:00"
 authorTwitter = "" #do not include @
 cover = ""
+author="jackson"
 tags=["email", "economy"]
 keywords = ["", ""]
 description = "In which Jackson compares the usefulness and economics of two popular low-budget mail providers."
