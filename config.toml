@@ -1,4 +1,4 @@
-baseURL = 'https://blog.jacksonrakena.com'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'jacksons notes'
 theme = 'terminal'
